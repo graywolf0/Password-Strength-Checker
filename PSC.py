@@ -1,5 +1,5 @@
 # password_strength_checker.py
-# Author: [Senin İsmin]
+# Author: Graywolf0
 # 📌 Educational Project - For Portfolio Use
 
 import re
